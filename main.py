@@ -28,7 +28,7 @@ def keep_alive():
 # ==========================================
 
 # دریافت توکن از متغیرهای محیطی
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("8835382268:AAGkKdZYq08Al-fbfTRmxsM05xR8v86Aieg")
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
